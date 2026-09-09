@@ -5,4 +5,4 @@ def main():
 if __name__ == "__main__":
     main()
     
-print(2+3)
+print(2+5)
